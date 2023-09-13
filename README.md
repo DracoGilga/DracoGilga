@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔ Hello everyone, my name is Cesar.😇😎<br>✔ I am a software engineering student at the "Universidad Veracruzana". 🦚<br>✔ I currently reside in the state of Veracruz.🕺💃<br>✔ I speak the languages C++, Java, C, SQL and I am currently learning C#.💻🖥<br>✔ One of my main qualities is that I like to program as a team and create new programming projects.<br>✔ I am currently focusing on learning how MICROSOFT AZURE cloud services work.🗄<br><br>    🕹 Indie game lover and occasional multiplayer gamer 🕹
+✔ Hello everyone, my name is Cesar.😇😎<br>✔ I am a software engineering student at the "Universidad Veracruzana". 🦚<br>✔ Microsoft Learn Student Ambassador --- BETA <br>✔ I currently reside in the state of Veracruz.🕺💃<br>✔ I speak the languages C++, Java, C, SQL and I am currently learning C#.💻🖥<br>✔ One of my main qualities is that I like to program as a team and create new programming projects.<br>✔ I am currently focusing on learning how MICROSOFT AZURE cloud services work.🗄<br><br>    🕹 Indie game lover and occasional multiplayer gamer 🕹
 
 
 ## 🌐 Socials:
