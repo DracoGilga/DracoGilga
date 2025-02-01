@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://open.spotify.com/user/2263v4vfldr3bic63g6ejokmy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2263v4vfldr3bic63g6ejokmy&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://novatorem-5b8hmaxaq-cesar-gonzalez-lopezs-projects.vercel.app?" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
