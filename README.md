@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://novatorem-5b8hmaxaq-cesar-gonzalez-lopezs-projects.vercel.app?" alt="Widget with the current Spotify song"  />
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-cesar-gonzalez-lopezs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/2263v4vfldr3bic63g6ejokmy)
 </div>
 
 ###
