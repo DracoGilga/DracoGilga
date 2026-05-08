@@ -1,3 +1,11 @@
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Cesar%20Gonzalez%20Lopez&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
 &nbsp;<div align="center">
   [![Spotify](https://novatorem-cesar-gonzalez-lopezs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/2263v4vfldr3bic63g6ejokmy)
 </div>
@@ -135,11 +143,7 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=DracoGilga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoGilga&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DracoGilga&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
 ###
 
@@ -151,10 +155,6 @@
 
 ###
 
-<h2>🔝 Top Contributed Repo</h2>
-
-###
-
-<img src="https://github-contributor-stats.vercel.app/api?username=DracoGilga&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-
-<hr>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&text=dracogilga.com&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
